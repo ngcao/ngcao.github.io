@@ -29,6 +29,8 @@
 - [Spatial Distribution of Air Pollutants](https://docs.google.com/presentation/d/1YLQTpE3e5_7Z70Jxq0sKhtwX7LUfV-86bd_GhQERCDY/edit)
 
 +  Conducted a **spatial analysis** of air pollutants impacting asthma applying **GIS, Principal Component Analysis**,and **hierarchical clustering**. Three clusters were identified and utilized to explain the asthma pattern. The project won an **abstract award** and the author was recognized as a **student scholar** at the American Thoracic Society 2018 meeting.
+
+
 ---
 
 
