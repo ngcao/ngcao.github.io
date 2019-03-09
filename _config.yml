@@ -1,8 +1,6 @@
 title: Nguyen Cao # your name (or website title) here
 logo: "/images/pic.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  
-  #### Summary 
+description: > # your text below (remove <br> elements if you don't need line breaks) 
   
   Aspiring data scientist with a considerable experience in environmental science, project management, and working in diverse and collaborative environments.
   <br><br>
@@ -15,20 +13,20 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <a href="https://www.linkedin.com/in/nguyenhcao">View My LinkedIn Profile</a> <br><br>
   
-  **Technical Skills** <br><br>
+  Technical Skills <br><br>
   - Machine Learning <br><br>
   - Statitistics and Probability <br><br>
   - Data Visualization <br><br>
   - R, Python, SQL, and Tableau <br><br>
   
-  **Certificates** <br><br>
+  Certificates <br><br>
   - EdX       - The Analytics Edge <br><br>
   - Udaticy   - Data Analyst Nanodegree <br><br>
   - Dataquest - Data Scientist Path <br><br>
   
-  **Packages** <br><br>
-  - (**Python**) Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels <br><br>
-  - (**RRR)      Tidyverse, parsnip, glmnet, rpart, ranger, xgboost, kernlab <br><br>
+  Packages <br><br>
+  - (Python) Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels <br><br>
+  - (R)      Tidyverse, parsnip, glmnet, rpart, ranger, xgboost, kernlab <br><br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
