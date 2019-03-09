@@ -15,20 +15,20 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <a href="https://www.linkedin.com/in/nguyenhcao">View My LinkedIn Profile</a> <br><br>
   
-  #### Technical Skills
-  - Machine Learning
-  - Statitistics and Probability
-  - Data Visualization
-  - R, Python, SQL, and Tableau
+  **Technical Skills** <br></br>
+  - Machine Learning <br></br>
+  - Statitistics and Probability <br></br>
+  - Data Visualization <br></br>
+  - R, Python, SQL, and Tableau <br></br>
   
-  #### Certificates
-  - EdX       - The Analytics Edge
-  - Udaticy   - Data Analyst Nanodegree
-  - Dataquest - Data Scientist Path
+  **Certificates** <br></br>
+  - EdX       - The Analytics Edge <br></br>
+  - Udaticy   - Data Analyst Nanodegree <br></br>
+  - Dataquest - Data Scientist Path <br></br>
   
-  #### Packages
-  - (**Python**) Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels
-  - (**RRR)      Tidyverse, parsnip, glmnet, rpart, ranger, xgboost, kernlab
+  **Packages** <br></br>
+  - (**Python**) Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels <br></br>
+  - (**RRR)      Tidyverse, parsnip, glmnet, rpart, ranger, xgboost, kernlab <br></br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
