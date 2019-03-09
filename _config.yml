@@ -11,8 +11,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Doctoral Candidate in Environmental Science at the University of Texas at Arlington.
   <br><br>
   
-  <a href="https://www.linkedin.com/in/nguyenhcao">View My LinkedIn Profile</a> <br><br>
-  
   Technical Skills <br><br>
   - Machine Learning <br><br>
   - Statitistics and Probability <br><br>
@@ -28,5 +26,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   - (Python) Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodels <br><br>
   - (R)      Tidyverse, parsnip, glmnet, rpart, ranger, xgboost, kernlab <br><br>
   
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  <a href="https://www.linkedin.com/in/nguyenhcao">View My LinkedIn Profile</a> <br><br>
