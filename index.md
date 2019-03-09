@@ -5,14 +5,10 @@
 ### Python Projects
 
 - [Child Mortality Rate](https://www.dropbox.com/s/5azup3ahsr02uj9/CMR_slides.pdf?dl=0)
-<img src = "images/">
-<img src = "images/">
-<img src = "images/">
+
 
 +  Performed a comprehensive **Exploratory Data Analysis and Multiple Linear Regression** to investigate child mortality rate (CMR). **Substantial understanding** regarding the difference in CMR across world regions, the negative association between CMR and improved sanitation, government spending, and life expectancy was **achieved**.
-<img src = "images/">
-<img src = "images/">
-<img src = "images/">
+
 
 ---
 - [A/B Testing](https://github.com/ngcao/Python-Projects/tree/master/AB%20Testing)
@@ -36,5 +32,4 @@
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
